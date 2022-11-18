@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/static/css/main.9d731285.css",
+    "main.js": "/static/js/main.6676834b.js",
+    "static/media/klcc-hero.png": "/static/media/klcc-hero.eb55e4cd26b743154db8.png",
+    "static/media/laptop.jpg": "/static/media/laptop.45ddf500e572fb2f1d35.jpg",
+    "static/media/logo1.png": "/static/media/logo1.61d770fa579685052a71.png",
+    "index.html": "/index.html",
+    "main.9d731285.css.map": "/static/css/main.9d731285.css.map",
+    "main.6676834b.js.map": "/static/js/main.6676834b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9d731285.css",
+    "static/js/main.6676834b.js"
+  ]
+}
