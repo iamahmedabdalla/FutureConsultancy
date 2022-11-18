@@ -1,28 +1,24 @@
 import React from 'react';
 import {
-  FaDribbbleSquare,
   FaFacebookSquare,
-  FaGithubSquare,
   FaInstagram,
-  FaTwitterSquare,
 } from 'react-icons/fa';
 
 const Footer = () => {
   return (
     <div className='max-w-[1240px] mx-auto py-16 px-4 grid lg:grid-cols-3 gap-8 text-gray-300'>
       <div>
-        <h1 className='w-full text-3xl font-bold text-[#00df9a]'> Next Future Consultancy </h1>
+        <h1 className='w-full text-3xl font-bold text-[#FFCB65]'> Future Consultancy </h1>
         <p className='py-4'>
-          Next Future Consultancy is a leading educational agency that provides a wide range of
+          Future Consultancy is a leading educational agency that provides a wide range of
           services to students who wish to study abroad. We are a team of highly experienced
-          professionals who have been in the industry for over 10 years. We have helped thousands of
-          students to achieve their dreams of studying abroad.
+          professionals who have been in the industry for over 3 year, and we are committed to
+          providing the best service to our clients. 
 
         </p>
-        <div className='flex justify-between md:w-[75%] my-6'>
-            <FaFacebookSquare size={30} />
-            <FaInstagram size={30} />
-            <FaTwitterSquare size={30} />
+        <div className='flex justify-start gap-10 md:w-[75%] my-6'>
+            <FaFacebookSquare size={30} onClick={() => window.open('https://www.facebook.com/futureconsultancyofficial', '_blank')} />
+            <FaInstagram size={30} onClick={() => window.open('https://www.instagram.com/futureconsultancyofficial', '_blank')} />
         </div>
       </div>
       <div className='lg:col-span-2 flex justify-between mt-6'>
