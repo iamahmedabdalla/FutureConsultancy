@@ -16,7 +16,6 @@ function App() {
       <Reasons />
       <Steps />
       <StillLost />
-      
       <Footer />
     </div>
   );
