@@ -6,6 +6,12 @@ import Navbar from './components/Navbar';
 import Reasons from './components/Reasons';
 import Steps from './components/Steps';
 import StillLost from './components/StillLost';
+import ReactGA from 'react-ga';
+
+const trackingId = "G-YVK0TCSPHS"; 
+ReactGA.initialize(trackingId);
+ReactGA.pageview(window.location.pathname + window.location.search);
+
 
 function App() {
   return (
