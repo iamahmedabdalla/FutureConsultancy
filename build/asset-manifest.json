@@ -1,16 +1,15 @@
 {
   "files": {
-    "main.css": "/static/css/main.9d731285.css",
-    "main.js": "/static/js/main.6676834b.js",
+    "main.css": "/static/css/main.fbd5bfb0.css",
+    "main.js": "/static/js/main.2b8a3268.js",
     "static/media/klcc-hero.png": "/static/media/klcc-hero.eb55e4cd26b743154db8.png",
-    "static/media/laptop.jpg": "/static/media/laptop.45ddf500e572fb2f1d35.jpg",
-    "static/media/logo1.png": "/static/media/logo1.61d770fa579685052a71.png",
+    "static/media/FutureConsultancy.png": "/static/media/FutureConsultancy.6ca8d7af6a9a4048ecab.png",
     "index.html": "/index.html",
-    "main.9d731285.css.map": "/static/css/main.9d731285.css.map",
-    "main.6676834b.js.map": "/static/js/main.6676834b.js.map"
+    "main.fbd5bfb0.css.map": "/static/css/main.fbd5bfb0.css.map",
+    "main.2b8a3268.js.map": "/static/js/main.2b8a3268.js.map"
   },
   "entrypoints": [
-    "static/css/main.9d731285.css",
-    "static/js/main.6676834b.js"
+    "static/css/main.fbd5bfb0.css",
+    "static/js/main.2b8a3268.js"
   ]
 }

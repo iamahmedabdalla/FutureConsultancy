@@ -8,7 +8,7 @@ import Steps from './components/Steps';
 import StillLost from './components/StillLost';
 import ReactGA from 'react-ga';
 
-const trackingId = "G-YVK0TCSPHS"; 
+const trackingId = "UA-250257348-1";
 ReactGA.initialize(trackingId);
 ReactGA.pageview(window.location.pathname + window.location.search);
 
